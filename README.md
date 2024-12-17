@@ -5,7 +5,7 @@
 ## Instructions
 
 Create a React application with **three buttons** and corresponding outputs.  
-All outputs should appear in the **main `App.tsx` file**.
+All outputs should appear in the main `App.tsx` file.
 
 You will create **three components**:
 
