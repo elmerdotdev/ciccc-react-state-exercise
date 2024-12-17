@@ -54,12 +54,13 @@ Each component will render a button, but the outputs will be handled in `App.tsx
 Below is an example placeholder for your `App.tsx`:
 
 ```tsx
-import React from 'react';
 import LightToggle from './components/LightToggle';
 import LottoNumbers from './components/LottoNumbers';
 import ClickCounter from './components/ClickCounter';
 
 const App = () => {
+  /* Your states here */
+
   return (
     <div>
       <h2>Light Toggle</h2>
