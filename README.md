@@ -22,7 +22,7 @@ Each component will render a button, but the outputs will be handled in `App.tsx
 - Create a button labeled **"Toggle Lights"**.
 - When clicked:
   - Toggle **isLightsOn** boolean state between `true` and `false`.
-  - Display the current background color in a **div**:
+  - Update the background color of a **div**:
     - White for **lights on**.
     - Black for **lights off**.
 
