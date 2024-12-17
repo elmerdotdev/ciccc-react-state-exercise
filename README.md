@@ -17,7 +17,7 @@ Each component will render a button, but the outputs will be handled in `App.tsx
 
 ## Tasks
 
-### 1. Button 1: Toggle “On/Off” the Lights
+### 1. Toggle “On/Off” the Lights
 
 - Create a button labeled **"Toggle Lights"**.
 - When clicked:
@@ -26,14 +26,14 @@ Each component will render a button, but the outputs will be handled in `App.tsx
     - White for **lights on**.
     - Black for **lights off**.
 
-### 2. Button 2: Lotto Numbers
+### 2. Lotto Numbers
 
 - Create a button labeled **"Generate Lotto Numbers"**.
 - When clicked:
   - Generate **7 random numbers** between **1 and 50**.
   - Update `lottoNumbers` array state and display in a **div**.
 
-### 3. Button 3: Click Counter
+### 3. Click Counter
 
 - Create a button labeled **"Click Counter"**.
 - When clicked:
