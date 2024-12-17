@@ -49,9 +49,7 @@ Each component will render a button, but the outputs will be handled in `App.tsx
    - `ClickCounter`
 3. Pass setters to the components which will update the states on `App.tsx`.
 
-## App.tsx
-
-Below is an example placeholder for your `App.tsx`:
+### App.tsx
 
 ```tsx
 import LightToggle from './components/LightToggle';
